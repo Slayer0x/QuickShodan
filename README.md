@@ -1,5 +1,6 @@
 <h1>🔎 QuickShodan.py Python3 Script 🔎</h1>
 
+<img src="https://www.maltego.com/images/uploads/shodan-logo.png"></img><br>
 In order to use this script you need to replace the **API_KEY** variable with your own Shodan API Key.
 
 <h2>📚 Menu Options</h2>
